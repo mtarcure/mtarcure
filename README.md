@@ -1,9 +1,13 @@
-### Hi, I'm Marc
+### Hey
 
-Full-stack developer working with Python, TypeScript, and Solana. Currently building AI agents and blockchain tools.
+Building multi-agent AI systems on the Claude Agent SDK.
 
-#### RustChain Contributor
+**Currently:** WireWork Swarm — 29 specialist agents coordinated via Telegram. Security audits, full-stack builds, research, business automation. Built entirely through Claude.
 
-[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-orange?style=flat-square&logo=rust)](https://github.com/Scottcjn/Rustchain)
-[![BoTTube SDK](https://img.shields.io/badge/BoTTube-SDK_Author-blue?style=flat-square)](https://github.com/mtarcure/bottube-python-sdk)
-[![RTC Wallet](https://img.shields.io/badge/RTC-wirework-green?style=flat-square)](https://rustchain.org)
+**Open source plugins for Claude Code:**
+
+[![chain-strike](https://img.shields.io/badge/chain--strike-exploit_chains-red?style=flat-square)](https://github.com/mtarcure/chain-strike)
+[![gemini-review](https://img.shields.io/badge/gemini--review-adversarial_code_review-blue?style=flat-square)](https://github.com/mtarcure/gemini-review-plugin)
+[![council](https://img.shields.io/badge/council-5_AI_advisors-purple?style=flat-square)](https://github.com/mtarcure/claude-code-council)
+
+Python | TypeScript | Claude Agent SDK | Telegram
